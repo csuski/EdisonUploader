@@ -150,7 +150,7 @@
             this.Name = "SettingsDialog";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "SettingsDialog";
+            this.Text = "Settings";
             this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();
